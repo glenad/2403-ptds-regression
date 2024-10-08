@@ -90,11 +90,11 @@ pip install -r requirements.txt
 
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
-[Muhammad Seedat](https://github.com/maseedatM5)
-[Sharon Rangwato](https://github.com/Noni1030)
-[Tim Fleur](https://github.com/timfleur)
-[Tyrelle Brandt](https://github.com/TyrelleBrandt)
-[Glen Adams](https://github.com/glenad)
+- [Muhammad Seedat](https://github.com/maseedatM5)
+- [Sharon Rangwato](https://github.com/Noni1030)
+- [Tim Fleur](https://github.com/timfleur)
+- [Tyrelle Brandt](https://github.com/TyrelleBrandt)
+- [Glen Adams](https://github.com/glenad)
 
 
 #### Additional Resources to create a README file:
